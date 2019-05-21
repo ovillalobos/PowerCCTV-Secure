@@ -1,0 +1,42 @@
+.text-input
+{
+	height: 21px;
+	width: 200px;
+}
+.register-table
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.register-table td, 
+.register-table tr
+{
+	margin: 0px;
+	padding: 2px;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	font-family: Verdana;
+	font-size: 12px;
+}
+h3 
+{
+	display: inline-block;
+	margin: 0px;
+}
+#msgSistema{	
+
+}
+.msgerror{
+	padding: 3px 8px 3px 8px;
+	border: 1px solid #C74A4A;
+	background-color: #FCDBDB;
+	color: #C74A4A; 
+	border-radius: 5px;
+}
+.msgcorrecto{
+	padding: 3px 8px 3px 8px;
+	border: 1px solid #3374A5;
+	background-color: #D2E5F4;
+	color: #3374A5; 
+	border-radius: 5px;
+}
